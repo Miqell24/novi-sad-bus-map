@@ -1,0 +1,5122 @@
+{
+  "generatedAt": "2026-08-31T14:53:02.571Z",
+  "bbox": [
+    19.529585,
+    45.125909,
+    20.039747,
+    45.434261
+  ],
+  "badgeBands": [
+    [
+      13,
+      13.6
+    ],
+    [
+      13.6,
+      14.4
+    ],
+    [
+      14.4,
+      15.5
+    ],
+    [
+      15.5,
+      16.8
+    ],
+    [
+      16.8,
+      22
+    ]
+  ],
+  "modes": [
+    {
+      "mode": "bus",
+      "label": "buses",
+      "color": "#0059a9"
+    }
+  ],
+  "lines": [
+    {
+      "line": "1",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "KLISA - CENTAR - LIMAN 1",
+          "headsign": "KLISA - CENTAR - LIMAN 1",
+          "variants": 1,
+          "tripCount": 82,
+          "stops": 22,
+          "lengthKm": 9.83,
+          "stats": {
+            "observations": 492,
+            "matched": 492,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.483398122895661,
+            "roundaboutSegs": 18,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "LIMAN 1 - CENTAR - KLISA",
+          "headsign": "LIMAN 1 - CENTAR - KLISA",
+          "variants": 1,
+          "tripCount": 80,
+          "stops": 22,
+          "lengthKm": 9.85,
+          "stats": {
+            "observations": 492,
+            "matched": 492,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8674888486564638,
+            "roundaboutSegs": 8,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "1GL",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "KLISA (GORNJE LIVADE) - CENTAR - LIMAN 1",
+          "headsign": "KLISA (GORNJE LIVADE) - CENTAR - LIMAN 1",
+          "variants": 1,
+          "tripCount": 116,
+          "stops": 24,
+          "lengthKm": 10.78,
+          "stats": {
+            "observations": 537,
+            "matched": 537,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.1246198686459477,
+            "roundaboutSegs": 18,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "LIMAN 1 - CENTAR - KLISA (GORNJE LIVADE)",
+          "headsign": "LIMAN 1 - CENTAR - KLISA (GORNJE LIVADE)",
+          "variants": 1,
+          "tripCount": 123,
+          "stops": 23,
+          "lengthKm": 10.77,
+          "stats": {
+            "observations": 538,
+            "matched": 538,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.053675499865247,
+            "roundaboutSegs": 8,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "1J",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "KLISA (JEGRIČKA) - CENTAR - LIMAN 1",
+          "headsign": "KLISA (JEGRIČKA) - CENTAR - LIMAN 1",
+          "variants": 1,
+          "tripCount": 14,
+          "stops": 20,
+          "lengthKm": 9.6,
+          "stats": {
+            "observations": 479,
+            "matched": 479,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.5742654871119166,
+            "roundaboutSegs": 18,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "LIMAN 1 - CENTAR - KLISA (JEGRIČKA)",
+          "headsign": "LIMAN 1 - CENTAR - KLISA (JEGRIČKA)",
+          "variants": 1,
+          "tripCount": 14,
+          "stops": 20,
+          "lengthKm": 9.63,
+          "stats": {
+            "observations": 482,
+            "matched": 482,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.0577755618693736,
+            "roundaboutSegs": 8,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "2",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "CENTAR - NOVO NASELJE",
+          "headsign": "CENTAR - NOVO NASELJE",
+          "variants": 1,
+          "tripCount": 195,
+          "stops": 17,
+          "lengthKm": 6.27,
+          "stats": {
+            "observations": 312,
+            "matched": 312,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.8547951742015254,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "NOVO NASELJE - CENTAR",
+          "headsign": "NOVO NASELJE - CENTAR",
+          "variants": 1,
+          "tripCount": 194,
+          "stops": 16,
+          "lengthKm": 6.27,
+          "stats": {
+            "observations": 314,
+            "matched": 314,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.6562461649481006,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "3",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "DETELINARA - CENTAR - PETROVARADIN",
+          "headsign": "DETELINARA - CENTAR - PETROVARADIN",
+          "variants": 1,
+          "tripCount": 195,
+          "stops": 20,
+          "lengthKm": 8.57,
+          "stats": {
+            "observations": 428,
+            "matched": 428,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.4797061244748013,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "PETROVARADIN - CENTAR - DETELINARA",
+          "headsign": "PETROVARADIN - CENTAR - DETELINARA",
+          "variants": 1,
+          "tripCount": 196,
+          "stops": 19,
+          "lengthKm": 8.58,
+          "stats": {
+            "observations": 427,
+            "matched": 427,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.239530288381136,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "3A",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "POBEDA - ŽELEZNIČKA STANICA",
+          "headsign": "POBEDA - ŽELEZNIČKA STANICA",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 11,
+          "lengthKm": 5.96,
+          "stats": {
+            "observations": 295,
+            "matched": 295,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.456917020865849,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "3B",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "PETROVARADIN (OSNOVNA ŠKOLA JOVAN DUČIĆ) - PUCKAROŠ",
+          "headsign": "PETROVARADIN (OSNOVNA ŠKOLA JOVAN DUČIĆ) - PUCKAROŠ",
+          "variants": 2,
+          "tripCount": 9,
+          "stops": 6,
+          "lengthKm": 4.72,
+          "stats": {
+            "observations": 236,
+            "matched": 236,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.8303067359765612,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "4",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "LIMAN 4 - CENTAR - ŽELEZNIČKA STANICA",
+          "headsign": "LIMAN 4 - CENTAR - ŽELEZNIČKA STANICA",
+          "variants": 1,
+          "tripCount": 208,
+          "stops": 13,
+          "lengthKm": 5.55,
+          "stats": {
+            "observations": 278,
+            "matched": 278,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.5926654084241825,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "ŽELEZNIČKA STANICA - CENTAR - LIMAN 4",
+          "headsign": "ŽELEZNIČKA STANICA - CENTAR - LIMAN 4",
+          "variants": 1,
+          "tripCount": 172,
+          "stops": 13,
+          "lengthKm": 5.49,
+          "stats": {
+            "observations": 274,
+            "matched": 274,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.548289187440048,
+            "roundaboutSegs": 12,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "5",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "AVIJATIČARSKO NASELJE-CENTAR-TEMERINSKI PUT",
+          "headsign": "AVIJATIČARSKO NASELJE-CENTAR-TEMERINSKI PUT",
+          "variants": 1,
+          "tripCount": 211,
+          "stops": 24,
+          "lengthKm": 10.28,
+          "stats": {
+            "observations": 514,
+            "matched": 514,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.9954953669869577,
+            "roundaboutSegs": 17,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "TEMERINSKI PUT - CENTAR - AVIJATIČAR.NASELJE",
+          "headsign": "TEMERINSKI PUT - CENTAR - AVIJATIČAR.NASELJE",
+          "variants": 1,
+          "tripCount": 213,
+          "stops": 23,
+          "lengthKm": 10.17,
+          "stats": {
+            "observations": 508,
+            "matched": 508,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.8305356164902737,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "5N",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "TEMERINSKI PUT - NAJLON - ŽELEZNIČKA STANICA",
+          "headsign": "TEMERINSKI PUT - NAJLON - ŽELEZNIČKA STANICA",
+          "variants": 1,
+          "tripCount": 30,
+          "stops": 17,
+          "lengthKm": 7.58,
+          "stats": {
+            "observations": 379,
+            "matched": 379,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.4618374325876506,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "ŽELEZNIČKA STANICA - NAJLON - TEMERINSKI PUT",
+          "headsign": "ŽELEZNIČKA STANICA - NAJLON - TEMERINSKI PUT",
+          "variants": 1,
+          "tripCount": 30,
+          "stops": 18,
+          "lengthKm": 7.75,
+          "stats": {
+            "observations": 387,
+            "matched": 387,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.0006606043082575,
+            "roundaboutSegs": 17,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "6",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "ADICE (DANIBIUS) - CENTAR - PODBARA",
+          "headsign": "ADICE (DANIBIUS) - CENTAR - PODBARA",
+          "variants": 1,
+          "tripCount": 4,
+          "stops": 21,
+          "lengthKm": 10.06,
+          "stats": {
+            "observations": 503,
+            "matched": 503,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8212869762123447,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "ADICE-CENTAR-PODBARA",
+          "headsign": "ADICE-CENTAR-PODBARA",
+          "variants": 1,
+          "tripCount": 187,
+          "stops": 20,
+          "lengthKm": 9.58,
+          "stats": {
+            "observations": 480,
+            "matched": 480,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.854796860127231,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "PODBARA - CENTAR - ADICE",
+          "headsign": "PODBARA - CENTAR - ADICE",
+          "variants": 1,
+          "tripCount": 188,
+          "stops": 23,
+          "lengthKm": 9.3,
+          "stats": {
+            "observations": 461,
+            "matched": 461,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 4.096069052233174,
+            "roundaboutSegs": 1,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "PODBARA - CENTAR - ADICE (DANUBIUS)",
+          "headsign": "PODBARA - CENTAR - ADICE (DANUBIUS)",
+          "variants": 1,
+          "tripCount": 2,
+          "stops": 25,
+          "lengthKm": 10.31,
+          "stats": {
+            "observations": 516,
+            "matched": 516,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.8971484511494063,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "7A",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "NOVO NASELJE - ŽELEZNIČKA STANICA -FUTOŠKA PIJACA- LIMAN 4 - NOVO NASELJE",
+          "headsign": "NOVO NASELJE - ŽELEZNIČKA STANICA -FUTOŠKA PIJACA- LIMAN 4 - NOVO NASELJE",
+          "variants": 1,
+          "tripCount": 221,
+          "stops": 31,
+          "lengthKm": 0.1,
+          "stats": {
+            "observations": 6,
+            "matched": 6,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.0986540499958,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "7B",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "NOVO NASELJE - LIMAN 4 - FUTOŠKA PIJACA - ŽELEZNIČKA STANICA - NOVO NASELJE",
+          "headsign": "NOVO NASELJE - LIMAN 4 - FUTOŠKA PIJACA - ŽELEZNIČKA STANICA - NOVO NASELJE",
+          "variants": 1,
+          "tripCount": 226,
+          "stops": 31,
+          "lengthKm": 0.13,
+          "stats": {
+            "observations": 8,
+            "matched": 8,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.0776209326141861,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "8",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "LIMAN 1 - CENTAR - NOVO NASELJE",
+          "headsign": "LIMAN 1 - CENTAR - NOVO NASELJE",
+          "variants": 1,
+          "tripCount": 192,
+          "stops": 21,
+          "lengthKm": 8.73,
+          "stats": {
+            "observations": 437,
+            "matched": 437,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.836087230471979,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "NOVO NASELJE - CENTAR - LIMAN 1",
+          "headsign": "NOVO NASELJE - CENTAR - LIMAN 1",
+          "variants": 1,
+          "tripCount": 189,
+          "stops": 22,
+          "lengthKm": 8.93,
+          "stats": {
+            "observations": 445,
+            "matched": 445,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.0541678998227817,
+            "roundaboutSegs": 12,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "9",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "NOVO NASELJE - LIMAN - PETROVARADIN",
+          "headsign": "NOVO NASELJE - LIMAN - PETROVARADIN",
+          "variants": 1,
+          "tripCount": 153,
+          "stops": 25,
+          "lengthKm": 11.67,
+          "stats": {
+            "observations": 584,
+            "matched": 584,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.874265213547882,
+            "roundaboutSegs": 10,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "PETROVARADIN - LIMAN - NOVO NASELJE",
+          "headsign": "PETROVARADIN - LIMAN - NOVO NASELJE",
+          "variants": 1,
+          "tripCount": 154,
+          "stops": 26,
+          "lengthKm": 11.59,
+          "stats": {
+            "observations": 579,
+            "matched": 579,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.1543600060916765,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "9A",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "NOVO NASELJE - LIMAN - PETROVARADIN (ALIBEGOVAC)",
+          "headsign": "NOVO NASELJE - LIMAN - PETROVARADIN (ALIBEGOVAC)",
+          "variants": 1,
+          "tripCount": 111,
+          "stops": 26,
+          "lengthKm": 12.88,
+          "stats": {
+            "observations": 644,
+            "matched": 644,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.833312086574448,
+            "roundaboutSegs": 10,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "PETROVARADIN (ALIBEGOVAC) - LIMAN - NOVO NASELJE",
+          "headsign": "PETROVARADIN (ALIBEGOVAC) - LIMAN - NOVO NASELJE",
+          "variants": 1,
+          "tripCount": 117,
+          "stops": 27,
+          "lengthKm": 12.79,
+          "stats": {
+            "observations": 639,
+            "matched": 639,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.9705447234467084,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "10",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "CENTAR - INDUSTRIJSKA ZONA JUG",
+          "headsign": "CENTAR - INDUSTRIJSKA ZONA JUG",
+          "variants": 1,
+          "tripCount": 14,
+          "stops": 12,
+          "lengthKm": 7.52,
+          "stats": {
+            "observations": 375,
+            "matched": 375,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.7364739317815052,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "INDUSTRIJSKA ZONA JUG - CENTAR",
+          "headsign": "INDUSTRIJSKA ZONA JUG - CENTAR",
+          "variants": 1,
+          "tripCount": 14,
+          "stops": 13,
+          "lengthKm": 8.22,
+          "stats": {
+            "observations": 412,
+            "matched": 412,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.669848245889335,
+            "roundaboutSegs": 20,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "10APT",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "CENTAR - INDUSTRIJSKA ZONA JUG (APTIV)",
+          "headsign": "CENTAR - INDUSTRIJSKA ZONA JUG (APTIV)",
+          "variants": 1,
+          "tripCount": 4,
+          "stops": 4,
+          "lengthKm": 4.58,
+          "stats": {
+            "observations": 230,
+            "matched": 230,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.1012620100106,
+            "roundaboutSegs": 6,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "INDUSTRIJSKA ZONA JUG (APTIV) - ŽELEZNIČKA STANICA",
+          "headsign": "INDUSTRIJSKA ZONA JUG (APTIV) - ŽELEZNIČKA  STANICA",
+          "variants": 1,
+          "tripCount": 4,
+          "stops": 4,
+          "lengthKm": 4.84,
+          "stats": {
+            "observations": 194,
+            "matched": 194,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.6204268524589787,
+            "roundaboutSegs": 33,
+            "extStart": 0,
+            "extEnd": 898
+          }
+        }
+      ]
+    },
+    {
+      "line": "10MAL",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "CENTAR - INDUSTRIJSKA ZONA JUG (MAŠINOREMONT/ALBUS)",
+          "headsign": "CENTAR - INDUSTRIJSKA ZONA JUG (MAŠINOREMONT/ALBUS)",
+          "variants": 1,
+          "tripCount": 8,
+          "stops": 15,
+          "lengthKm": 7.55,
+          "stats": {
+            "observations": 377,
+            "matched": 377,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.9913662886440668,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "INDUSTRIJSKA ZONA JUG (ALBUS/MAŠINOREMONT) - CENTAR",
+          "headsign": "INDUSTRIJSKA ZONA JUG (ALBUS/MAŠINOREMONT) - CENTAR",
+          "variants": 1,
+          "tripCount": 6,
+          "stops": 16,
+          "lengthKm": 7.36,
+          "stats": {
+            "observations": 367,
+            "matched": 367,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.921511682769184,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "11A",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "ŽELEZNIČKA STANICA - BOLNICA - LIMAN - ŽELEZNIČKA STANICA",
+          "headsign": "ŽELEZNIČKA STANICA - BOLNICA - LIMAN - ŽELEZNIČKA STANICA",
+          "variants": 1,
+          "tripCount": 150,
+          "stops": 23,
+          "lengthKm": 10.82,
+          "stats": {
+            "observations": 538,
+            "matched": 538,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.659464233772473,
+            "roundaboutSegs": 12,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "ŽELEZNIČKA STANICA - MEDICINSKA ŠKOLA",
+          "headsign": "ŽELEZNIČKA STANICA - MEDICINSKA ŠKOLA",
+          "variants": 1,
+          "tripCount": 3,
+          "stops": 7,
+          "lengthKm": 3.18,
+          "stats": {
+            "observations": 160,
+            "matched": 160,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.440639355474258,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "11B",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "MEDICINSKA ŠKOLA - ŽELEZNIČKA STANICA",
+          "headsign": "MEDICINSKA ŠKOLA - ŽELEZNIČKA STANICA",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 7,
+          "lengthKm": 3.22,
+          "stats": {
+            "observations": 160,
+            "matched": 160,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.0595064109867414,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "ŽELEZNIČKA STANICA - LIMAN - BOLNICA - ŽELEZNIČKA STANICA",
+          "headsign": "ŽELEZNIČKA STANICA - LIMAN - BOLNICA - ŽELEZNIČKA STANICA",
+          "variants": 1,
+          "tripCount": 91,
+          "stops": 23,
+          "lengthKm": 0.05,
+          "stats": {
+            "observations": 4,
+            "matched": 4,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.5224404504628395,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "12",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "CENTAR - TELEP",
+          "headsign": "CENTAR - TELEP",
+          "variants": 1,
+          "tripCount": 138,
+          "stops": 15,
+          "lengthKm": 5.92,
+          "stats": {
+            "observations": 295,
+            "matched": 295,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8024544964701081,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "TELEP - CENTAR",
+          "headsign": "TELEP - CENTAR",
+          "variants": 1,
+          "tripCount": 141,
+          "stops": 16,
+          "lengthKm": 5.85,
+          "stats": {
+            "observations": 293,
+            "matched": 293,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.4979673503665438,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "13",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "DETELINARA - LIMAN - UNIVERZITET",
+          "headsign": "DETELINARA - LIMAN - UNIVERZITET",
+          "variants": 1,
+          "tripCount": 62,
+          "stops": 13,
+          "lengthKm": 5.98,
+          "stats": {
+            "observations": 299,
+            "matched": 299,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.9995343731761834,
+            "roundaboutSegs": 57,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "UNIVERZITET - LIMAN - DETELINARA",
+          "headsign": "UNIVERZITET - LIMAN - DETELINARA",
+          "variants": 1,
+          "tripCount": 63,
+          "stops": 14,
+          "lengthKm": 6.27,
+          "stats": {
+            "observations": 313,
+            "matched": 313,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.335657152181606,
+            "roundaboutSegs": 16,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "14",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "CENTAR-SAJLOVO",
+          "headsign": "CENTAR-SAJLOVO",
+          "variants": 1,
+          "tripCount": 78,
+          "stops": 15,
+          "lengthKm": 7.85,
+          "stats": {
+            "observations": 390,
+            "matched": 390,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.580487361039929,
+            "roundaboutSegs": 12,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "CENTAR-SAJLOVO-VETERNIK",
+          "headsign": "CENTAR-SAJLOVO-VETERNIK",
+          "variants": 1,
+          "tripCount": 49,
+          "stops": 21,
+          "lengthKm": 10.28,
+          "stats": {
+            "observations": 513,
+            "matched": 513,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.6827933247971756,
+            "roundaboutSegs": 27,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "VETERNIK - SAJLOVO - CENTAR",
+          "headsign": "VETERNIK - SAJLOVO - CENTAR",
+          "variants": 1,
+          "tripCount": 46,
+          "stops": 20,
+          "lengthKm": 10.33,
+          "stats": {
+            "observations": 511,
+            "matched": 511,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.3044474984738814,
+            "roundaboutSegs": 22,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "14GS",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Centar – Sajlovo – Veternik (kroz Gornje Sajlovo)",
+          "headsign": "Centar – Sajlovo – Veternik (kroz Gornje Sajlovo)",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 21,
+          "lengthKm": 11,
+          "stats": {
+            "observations": 541,
+            "matched": 541,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.4826807004171316,
+            "roundaboutSegs": 12,
+            "extStart": 0,
+            "extEnd": 152
+          }
+        },
+        {
+          "dir": "Veternik (kroz Gornje Sajlovo) – Sajlovo – Centar",
+          "headsign": "Veternik (kroz Gornje Sajlovo) – Sajlovo – Centar",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 22,
+          "lengthKm": 10.91,
+          "stats": {
+            "observations": 545,
+            "matched": 545,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.552548266471205,
+            "roundaboutSegs": 22,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "14S",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "SAJLOVO-CENTAR",
+          "headsign": "SAJLOVO-CENTAR",
+          "variants": 1,
+          "tripCount": 80,
+          "stops": 15,
+          "lengthKm": 7.64,
+          "stats": {
+            "observations": 379,
+            "matched": 379,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.789030924765428,
+            "roundaboutSegs": 13,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "15",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "CENTAR - INDUSTRIJSKA ZONA SEVER",
+          "headsign": "CENTAR - INDUSTRIJSKA ZONA SEVER",
+          "variants": 1,
+          "tripCount": 7,
+          "stops": 15,
+          "lengthKm": 8.02,
+          "stats": {
+            "observations": 388,
+            "matched": 388,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.8862102902297995,
+            "roundaboutSegs": 13,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "INDUSTRIJSKA ZONA SEVER - CENTAR",
+          "headsign": "INDUSTRIJSKA ZONA SEVER - CENTAR",
+          "variants": 1,
+          "tripCount": 6,
+          "stops": 14,
+          "lengthKm": 7.58,
+          "stats": {
+            "observations": 379,
+            "matched": 379,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.667507372537788,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "15APT",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "INDUSTRIJSKA ZONA SEVER (APTIV) - ŽELEZNIČKA STANICA",
+          "headsign": "INDUSTRIJSKA ZONA SEVER (APTIV) - ŽELEZNIČKA STANICA",
+          "variants": 1,
+          "tripCount": 4,
+          "stops": 4,
+          "lengthKm": 5.5,
+          "stats": {
+            "observations": 275,
+            "matched": 275,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.963063498214379,
+            "roundaboutSegs": 28,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "ŽELEZNIČKA STANICA - INDUSTRIJSKA ZONA SEVER (APTIV)",
+          "headsign": "ŽELEZNIČKA STANICA - INDUSTRIJSKA ZONA SEVER (APTIV)",
+          "variants": 1,
+          "tripCount": 4,
+          "stops": 4,
+          "lengthKm": 4.54,
+          "stats": {
+            "observations": 227,
+            "matched": 227,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.5721871002777996,
+            "roundaboutSegs": 6,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "15NK",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "CENTAR - INDUSTRIJSKA ZONA SEVER NEOPLANTA/KOTEKS",
+          "headsign": "CENTAR - INDUSTRIJSKA ZONA SEVER NEOPLANTA/KOTEKS",
+          "variants": 1,
+          "tripCount": 13,
+          "stops": 16,
+          "lengthKm": 7.74,
+          "stats": {
+            "observations": 387,
+            "matched": 387,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.4369374918376376,
+            "roundaboutSegs": 13,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "INDUSTRIJSKA ZONA SEVER NEOPLANTA/KOTEKS - CENTAR",
+          "headsign": "INDUSTRIJSKA ZONA SEVER NEOPLANTA/KOTEKS - CENTAR",
+          "variants": 1,
+          "tripCount": 10,
+          "stops": 15,
+          "lengthKm": 9.39,
+          "stats": {
+            "observations": 471,
+            "matched": 471,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.266057215726844,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "16",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "PRISTANIŠNA ZONA - ŽELEZNIČKA STANICA",
+          "headsign": "PRISTANIŠNA ZONA - ŽELEZNIČKA STANICA",
+          "variants": 1,
+          "tripCount": 4,
+          "stops": 7,
+          "lengthKm": 3.75,
+          "stats": {
+            "observations": 188,
+            "matched": 188,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.9077959568055667,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "ŽELEZNIČKA STANICA - PRISTANIŠNA ZONA",
+          "headsign": "ŽELEZNIČKA STANICA - PRISTANIŠNA ZONA",
+          "variants": 1,
+          "tripCount": 4,
+          "stops": 6,
+          "lengthKm": 2.88,
+          "stats": {
+            "observations": 143,
+            "matched": 143,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8853603184306515,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "17",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "BIG TRŽNI CENTAR - SUPER VERO - ŽELEZNIČKA STANICA - CENTAR",
+          "headsign": "BIG TRŽNI CENTAR - SUPER VERO - ŽELEZNIČKA STANICA - CENTAR",
+          "variants": 1,
+          "tripCount": 53,
+          "stops": 8,
+          "lengthKm": 4.03,
+          "stats": {
+            "observations": 202,
+            "matched": 202,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.5924839218096043,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "CENTAR - ŽELEZNIČKA STANICA - SUPER VERO - BIG TRŽNI CENTAR",
+          "headsign": "CENTAR - ŽELEZNIČKA STANICA - SUPER VERO - BIG TRŽNI CENTAR",
+          "variants": 1,
+          "tripCount": 46,
+          "stops": 11,
+          "lengthKm": 5.47,
+          "stats": {
+            "observations": 267,
+            "matched": 267,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.062781032330597,
+            "roundaboutSegs": 13,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "18A",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "NOVO NASELJE – DETELINARA – CENTAR – LIMAN 4 – NOVO NASELJE",
+          "headsign": "NOVO NASELJE – DETELINARA – CENTAR – LIMAN 4 – NOVO NASELJE",
+          "variants": 1,
+          "tripCount": 4,
+          "stops": 34,
+          "lengthKm": 13.71,
+          "stats": {
+            "observations": 683,
+            "matched": 683,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.9209678204116085,
+            "roundaboutSegs": 23,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "18B",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "NOVO NASELJE – LIMAN 4 – CENTAR - DETELINARA – NOVO NASELJE",
+          "headsign": "NOVO NASELJE – LIMAN 4 – CENTAR - DETELINARA – NOVO NASELJE",
+          "variants": 1,
+          "tripCount": 5,
+          "stops": 32,
+          "lengthKm": 0.11,
+          "stats": {
+            "observations": 7,
+            "matched": 7,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.7775751705506222,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "19",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "MIŠELUK (BOLNICA) - RTV - ŽELEZNIČKA STANICA",
+          "headsign": "MIŠELUK (BOLNICA) - RTV - ŽELEZNIČKA STANICA",
+          "variants": 1,
+          "tripCount": 13,
+          "stops": 9,
+          "lengthKm": 8.15,
+          "stats": {
+            "observations": 405,
+            "matched": 405,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.574657405949732,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "ŽELEZNIČKA STANICA - RTV - MIŠELUK (BOLNICA)",
+          "headsign": "ŽELEZNIČKA STANICA - RTV - MIŠELUK (BOLNICA)",
+          "variants": 1,
+          "tripCount": 12,
+          "stops": 10,
+          "lengthKm": 9.2,
+          "stats": {
+            "observations": 448,
+            "matched": 448,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 4.336459116331963,
+            "roundaboutSegs": 17,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "21",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "NOVI SAD (ŽELEZNIČKA STANICA) - ŠANGAJ",
+          "headsign": "NOVI SAD (ŽELEZNIČKA STANICA) - ŠANGAJ",
+          "variants": 1,
+          "tripCount": 36,
+          "stops": 14,
+          "lengthKm": 6.99,
+          "stats": {
+            "observations": 350,
+            "matched": 350,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.7841197778609388,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "ŠANGAJ - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "headsign": "ŠANGAJ - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "variants": 1,
+          "tripCount": 44,
+          "stops": 14,
+          "lengthKm": 7.23,
+          "stats": {
+            "observations": 360,
+            "matched": 360,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.582914090080153,
+            "roundaboutSegs": 15,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "21NIS",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "NOVI SAD (ŽELEZNIČKA STANICA) - ŠANGAJ (NIS PARKING)",
+          "headsign": "NOVI SAD (ŽELEZNIČKA STANICA) - ŠANGAJ (NIS PARKING)",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 14,
+          "lengthKm": 7.5,
+          "stats": {
+            "observations": 368,
+            "matched": 368,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.7472956849392014,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "21TET",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "NOVI SAD (ŽELEZNIČKA STANICA) - ŠANGAJ (TE-TO)",
+          "headsign": "NOVI SAD (ŽELEZNIČKA STANICA) - ŠANGAJ (TE-TO)",
+          "variants": 1,
+          "tripCount": 3,
+          "stops": 14,
+          "lengthKm": 8.35,
+          "stats": {
+            "observations": 418,
+            "matched": 418,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8784882390361146,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "ŠANGAJ (TE-TO) - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "headsign": "ŠANGAJ (TE-TO) - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "variants": 1,
+          "tripCount": 4,
+          "stops": 14,
+          "lengthKm": 8.6,
+          "stats": {
+            "observations": 429,
+            "matched": 429,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.6907431492640121,
+            "roundaboutSegs": 15,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "22",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "KAĆ - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "headsign": "KAĆ - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "variants": 1,
+          "tripCount": 28,
+          "stops": 15,
+          "lengthKm": 15.71,
+          "stats": {
+            "observations": 785,
+            "matched": 785,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.804921526622773,
+            "roundaboutSegs": 9,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "NOVI SAD (ŽELEZNIČKA STANICA) - KAĆ",
+          "headsign": "NOVI SAD (ŽELEZNIČKA STANICA) - KAĆ",
+          "variants": 1,
+          "tripCount": 22,
+          "stops": 16,
+          "lengthKm": 15.73,
+          "stats": {
+            "observations": 786,
+            "matched": 786,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8268018893263651,
+            "roundaboutSegs": 10,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "22KC",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "KAĆ (KROZ CENTAR) - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "headsign": "KAĆ (KROZ CENTAR) - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "variants": 1,
+          "tripCount": 7,
+          "stops": 12,
+          "lengthKm": 14.35,
+          "stats": {
+            "observations": 716,
+            "matched": 716,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.0962937137737234,
+            "roundaboutSegs": 9,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "NOVI SAD (ŽELEZNIČKA STANICA) - KAĆ (KROZ CENTAR)",
+          "headsign": "NOVI SAD (ŽELEZNIČKA STANICA) - KAĆ (KROZ CENTAR)",
+          "variants": 1,
+          "tripCount": 5,
+          "stops": 14,
+          "lengthKm": 14.37,
+          "stats": {
+            "observations": 719,
+            "matched": 719,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.1852774187549406,
+            "roundaboutSegs": 10,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "23",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "BUDISAVA - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "headsign": "BUDISAVA - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "variants": 1,
+          "tripCount": 37,
+          "stops": 16,
+          "lengthKm": 19.49,
+          "stats": {
+            "observations": 968,
+            "matched": 968,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 5.086948406710993,
+            "roundaboutSegs": 9,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "NOVI SAD (ŽELEZNIČKA STANICA) - BUDISAVA",
+          "headsign": "NOVI SAD (ŽELEZNIČKA STANICA) - BUDISAVA",
+          "variants": 1,
+          "tripCount": 36,
+          "stops": 18,
+          "lengthKm": 19.19,
+          "stats": {
+            "observations": 959,
+            "matched": 959,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.4514094942080344,
+            "roundaboutSegs": 10,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "23C",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "BUDISAVA - NOVI SAD (DO CENTRA)",
+          "headsign": "BUDISAVA - NOVI SAD (DO CENTRA)",
+          "variants": 1,
+          "tripCount": 5,
+          "stops": 15,
+          "lengthKm": 18.46,
+          "stats": {
+            "observations": 922,
+            "matched": 922,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.7310507280206853,
+            "roundaboutSegs": 9,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "23NT",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "BUDISAVA (KROZ KAĆ) - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "headsign": "BUDISAVA (KROZ KAĆ) - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "variants": 1,
+          "tripCount": 4,
+          "stops": 20,
+          "lengthKm": 20.75,
+          "stats": {
+            "observations": 1041,
+            "matched": 1041,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.6296893699953814,
+            "roundaboutSegs": 9,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "24",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "KOVILJ - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "headsign": "KOVILJ - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "variants": 1,
+          "tripCount": 49,
+          "stops": 25,
+          "lengthKm": 28.36,
+          "stats": {
+            "observations": 1418,
+            "matched": 1418,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8686160061796657,
+            "roundaboutSegs": 9,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "NOVI SAD (ŽELEZNIČKA STANICA) - KOVILJ",
+          "headsign": "NOVI SAD (ŽELEZNIČKA STANICA) - KOVILJ",
+          "variants": 1,
+          "tripCount": 47,
+          "stops": 27,
+          "lengthKm": 28.38,
+          "stats": {
+            "observations": 1419,
+            "matched": 1419,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.0862955808492094,
+            "roundaboutSegs": 10,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "24AKN",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "ZONA JUG (ALBUS) - ZONA SEVER (KOTEKS/NEOPLANTA) - KOVILJ",
+          "headsign": "ZONA JUG (ALBUS) - ZONA SEVER (KOTEKS/NEOPLANTA) - KOVILJ",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 36,
+          "lengthKm": 37.96,
+          "stats": {
+            "observations": 1895,
+            "matched": 1895,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.2635740104273263,
+            "roundaboutSegs": 23,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "24C",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "KOVILJ - NOVI SAD (DO CENTRA)",
+          "headsign": "KOVILJ - NOVI SAD (DO CENTRA)",
+          "variants": 1,
+          "tripCount": 6,
+          "stops": 23,
+          "lengthKm": 27.67,
+          "stats": {
+            "observations": 1385,
+            "matched": 1385,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.8368976817450853,
+            "roundaboutSegs": 9,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "24NKA",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "KOVILJ - ZONA SEVER (KOTEKS/NEOPLANTA) - ZONA JUG (ALBUS)",
+          "headsign": "KOVILJ - ZONA SEVER (KOTEKS/NEOPLANTA) - ZONA JUG (ALBUS)",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 35,
+          "lengthKm": 37.92,
+          "stats": {
+            "observations": 1893,
+            "matched": 1893,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.1203048930573156,
+            "roundaboutSegs": 35,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "24Š",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "NOVI SAD (ŽELEZNIČKA STANICA) - ŠANGAJ - KOVILJ",
+          "headsign": "NOVI SAD (ŽELEZNIČKA STANICA) - ŠANGAJ - KOVILJ",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 39,
+          "lengthKm": 34.88,
+          "stats": {
+            "observations": 1745,
+            "matched": 1745,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.5989590140477903,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "30",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "NOVI SAD (ŽELEZNIČKA STANICA) - PEJIĆEVI SALAŠI",
+          "headsign": "NOVI SAD (ŽELEZNIČKA STANICA) - PEJIĆEVI SALAŠI",
+          "variants": 1,
+          "tripCount": 10,
+          "stops": 23,
+          "lengthKm": 12.83,
+          "stats": {
+            "observations": 642,
+            "matched": 642,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.942215992013943,
+            "roundaboutSegs": 7,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "PEJIĆEVI SALAŠI - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "headsign": "PEJIĆEVI SALAŠI - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "variants": 1,
+          "tripCount": 10,
+          "stops": 23,
+          "lengthKm": 12.91,
+          "stats": {
+            "observations": 643,
+            "matched": 643,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.9459731815362384,
+            "roundaboutSegs": 7,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "31",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "KOLONIJA-BAČKI JARAK-NOVI SAD (AUTOBUSKA STANICA)",
+          "headsign": "KOLONIJA-BAČKI JARAK-NOVI SAD (AUTOBUSKA STANICA)",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 16,
+          "lengthKm": 16.37,
+          "stats": {
+            "observations": 817,
+            "matched": 817,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.2550570003162695,
+            "roundaboutSegs": 20,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "32",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "NOVI SAD (AUTOBUSKA STANICA) - TEMERIN",
+          "headsign": "NOVI SAD (AUTOBUSKA STANICA) - TEMERIN",
+          "variants": 1,
+          "tripCount": 24,
+          "stops": 24,
+          "lengthKm": 21.42,
+          "stats": {
+            "observations": 1070,
+            "matched": 1070,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.0407066620860617,
+            "roundaboutSegs": 16,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "TEMERIN - (PORED MLEKARE) - NOVI SAD (AUTOBUSKA STANICA)",
+          "headsign": "TEMERIN - (PORED MLEKARE) - NOVI SAD (AUTOBUSKA STANICA)",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 23,
+          "lengthKm": 21.1,
+          "stats": {
+            "observations": 1058,
+            "matched": 1058,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.022093059607474,
+            "roundaboutSegs": 24,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "TEMERIN - NOVI SAD (AUTOBUSKA STANICA)",
+          "headsign": "TEMERIN - NOVI SAD (AUTOBUSKA STANICA)",
+          "variants": 1,
+          "tripCount": 31,
+          "stops": 24,
+          "lengthKm": 21.46,
+          "stats": {
+            "observations": 1074,
+            "matched": 1074,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.604741957365546,
+            "roundaboutSegs": 12,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "32ML",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "NOVI SAD (AUTOBUSKA STANICA) (PORED MLEKARE) - TEMERIN",
+          "headsign": "NOVI SAD (AUTOBUSKA STANICA) (PORED MLEKARE) - TEMERIN",
+          "variants": 1,
+          "tripCount": 2,
+          "stops": 24,
+          "lengthKm": 21.02,
+          "stats": {
+            "observations": 1054,
+            "matched": 1054,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.919843671922283,
+            "roundaboutSegs": 22,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "33",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "GOSPOĐINCI - NOVI SAD (AUTOBUSKA STANICA)",
+          "headsign": "GOSPOĐINCI - NOVI SAD (AUTOBUSKA STANICA)",
+          "variants": 1,
+          "tripCount": 26,
+          "stops": 26,
+          "lengthKm": 27.73,
+          "stats": {
+            "observations": 1386,
+            "matched": 1386,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.7088034053098302,
+            "roundaboutSegs": 12,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "NOVI SAD (AUTOBUSKA STANICA) - GOSPOĐINCI",
+          "headsign": "NOVI SAD (AUTOBUSKA STANICA) - GOSPOĐINCI",
+          "variants": 1,
+          "tripCount": 11,
+          "stops": 26,
+          "lengthKm": 27.84,
+          "stats": {
+            "observations": 1390,
+            "matched": 1390,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.2202790652240023,
+            "roundaboutSegs": 16,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "33T",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "GOSPOĐINCI (KROZ TELEP) - NOVI SAD (AUTOBUSKA STANICA)",
+          "headsign": "GOSPOĐINCI (KROZ TELEP) - NOVI SAD (AUTOBUSKA STANICA)",
+          "variants": 1,
+          "tripCount": 8,
+          "stops": 33,
+          "lengthKm": 31.93,
+          "stats": {
+            "observations": 1595,
+            "matched": 1595,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.498984992529547,
+            "roundaboutSegs": 15,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "NOVI SAD (AUTOBUSKA STANICA) - GOSPOĐINCI (KROZ TELEP)",
+          "headsign": "NOVI SAD (AUTOBUSKA STANICA) - GOSPOĐINCI (KROZ TELEP)",
+          "variants": 1,
+          "tripCount": 17,
+          "stops": 32,
+          "lengthKm": 31.83,
+          "stats": {
+            "observations": 1596,
+            "matched": 1596,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.5145921946006737,
+            "roundaboutSegs": 16,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "35",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "NOVI SAD (ŽELEZNIČKA STANICA) - ČENEJ",
+          "headsign": "NOVI SAD (ŽELEZNIČKA STANICA) - ČENEJ",
+          "variants": 1,
+          "tripCount": 17,
+          "stops": 19,
+          "lengthKm": 15.84,
+          "stats": {
+            "observations": 794,
+            "matched": 794,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.3514081007425836,
+            "roundaboutSegs": 8,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "ČENEJ - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "headsign": "ČENEJ - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "variants": 1,
+          "tripCount": 20,
+          "stops": 19,
+          "lengthKm": 15.82,
+          "stats": {
+            "observations": 791,
+            "matched": 791,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.6462075427156877,
+            "roundaboutSegs": 6,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "35ČL",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "NOVI SAD (ŽELEZNIČKA STANICA) - LIS - ČENEJ",
+          "headsign": "NOVI SAD (ŽELEZNIČKA STANICA) - LIS - ČENEJ",
+          "variants": 1,
+          "tripCount": 8,
+          "stops": 24,
+          "lengthKm": 22.06,
+          "stats": {
+            "observations": 1084,
+            "matched": 1084,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.188851058939799,
+            "roundaboutSegs": 8,
+            "extStart": 0,
+            "extEnd": 454
+          }
+        },
+        {
+          "dir": "ČENEJ - LIS - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "headsign": "ČENEJ - LIS - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "variants": 1,
+          "tripCount": 12,
+          "stops": 25,
+          "lengthKm": 21.95,
+          "stats": {
+            "observations": 1093,
+            "matched": 1093,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.5150219817643245,
+            "roundaboutSegs": 6,
+            "extStart": 142,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "35L",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "LIS - ČENEJ - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "headsign": "LIS - ČENEJ - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "variants": 1,
+          "tripCount": 3,
+          "stops": 26,
+          "lengthKm": 22.54,
+          "stats": {
+            "observations": 1126,
+            "matched": 1126,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.6377615532701482,
+            "roundaboutSegs": 6,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "41",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "NOVI SAD (ŽELEZNIČKA STANICA) - RUMENKA",
+          "headsign": "NOVI SAD (ŽELEZNIČKA STANICA) - RUMENKA",
+          "variants": 1,
+          "tripCount": 20,
+          "stops": 16,
+          "lengthKm": 11.12,
+          "stats": {
+            "observations": 556,
+            "matched": 556,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.4508024412907932,
+            "roundaboutSegs": 12,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "RUMENKA - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "headsign": "RUMENKA - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "variants": 1,
+          "tripCount": 29,
+          "stops": 15,
+          "lengthKm": 11.14,
+          "stats": {
+            "observations": 558,
+            "matched": 558,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.6415971659507105,
+            "roundaboutSegs": 13,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "42",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "KISAČ - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "headsign": "KISAČ - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "variants": 1,
+          "tripCount": 21,
+          "stops": 20,
+          "lengthKm": 17.86,
+          "stats": {
+            "observations": 893,
+            "matched": 893,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.6828315911226785,
+            "roundaboutSegs": 13,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "NOVI SAD (ŽELEZNIČKA STANICA) - KISAČ",
+          "headsign": "NOVI SAD (ŽELEZNIČKA STANICA) - KISAČ",
+          "variants": 1,
+          "tripCount": 15,
+          "stops": 21,
+          "lengthKm": 17.9,
+          "stats": {
+            "observations": 895,
+            "matched": 895,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.5811852916915756,
+            "roundaboutSegs": 12,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "42KN",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "ZONA SEVER (KOTEKS /NEOPLANTA) - ZONA JUG (ALBUS) - KISAČ",
+          "headsign": "ZONA SEVER (KOTEKS /NEOPLANTA) - ZONA JUG (ALBUS) - KISAČ",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 29,
+          "lengthKm": 24.01,
+          "stats": {
+            "observations": 1199,
+            "matched": 1199,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8875709055337715,
+            "roundaboutSegs": 12,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "42KR",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "KISAČ (KROZ RUMENKU) - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "headsign": "KISAČ (KROZ RUMENKU) - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "variants": 1,
+          "tripCount": 26,
+          "stops": 23,
+          "lengthKm": 19.44,
+          "stats": {
+            "observations": 971,
+            "matched": 971,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.717295414711032,
+            "roundaboutSegs": 13,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "NOVI SAD (ŽELEZNIČKA STANICA) - KISAČ (KROZ RUMENKU)",
+          "headsign": "NOVI SAD (ŽELEZNIČKA STANICA) - KISAČ (KROZ RUMENKU)",
+          "variants": 1,
+          "tripCount": 26,
+          "stops": 24,
+          "lengthKm": 19.42,
+          "stats": {
+            "observations": 971,
+            "matched": 971,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.5941700875055993,
+            "roundaboutSegs": 12,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "42NK",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "KISAČ - ZONA SEVER (KOTEKS /NEOPLANTA) - ZONA JUG (ALBUS)",
+          "headsign": "KISAČ - ZONA SEVER (KOTEKS /NEOPLANTA) - ZONA JUG (ALBUS)",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 28,
+          "lengthKm": 23.94,
+          "stats": {
+            "observations": 1197,
+            "matched": 1197,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8478042644271175,
+            "roundaboutSegs": 26,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "43",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "NOVI SAD (ŽELEZNIČKA STANICA) - STEPANOVIĆEVO",
+          "headsign": "NOVI SAD (ŽELEZNIČKA STANICA) - STEPANOVIĆEVO",
+          "variants": 1,
+          "tripCount": 9,
+          "stops": 21,
+          "lengthKm": 24.92,
+          "stats": {
+            "observations": 1247,
+            "matched": 1247,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.4555437380530036,
+            "roundaboutSegs": 12,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "STEPANOVIĆEVO - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "headsign": "STEPANOVIĆEVO - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "variants": 1,
+          "tripCount": 12,
+          "stops": 20,
+          "lengthKm": 25.19,
+          "stats": {
+            "observations": 1259,
+            "matched": 1259,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.636191088664317,
+            "roundaboutSegs": 13,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "43KR",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "STEPANOVIĆEVO (KROZ RUMENKU) - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "headsign": "STEPANOVIĆEVO (KROZ RUMENKU) - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "variants": 1,
+          "tripCount": 3,
+          "stops": 23,
+          "lengthKm": 26.72,
+          "stats": {
+            "observations": 1335,
+            "matched": 1335,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.5544064012357364,
+            "roundaboutSegs": 13,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "43RTK",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "NOVI SAD (ŽELEZNIČKA STANICA) - STEPANOVIĆEVO (KROZ RUMENKU I TANKOSIĆEVU)",
+          "headsign": "NOVI SAD (ŽELEZNIČKA STANICA) - STEPANOVIĆEVO (KROZ RUMENKU I TANKOSIĆEVU)",
+          "variants": 1,
+          "tripCount": 3,
+          "stops": 29,
+          "lengthKm": 27.11,
+          "stats": {
+            "observations": 1333,
+            "matched": 1333,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.1606848023574354,
+            "roundaboutSegs": 12,
+            "extStart": 0,
+            "extEnd": 443
+          }
+        }
+      ]
+    },
+    {
+      "line": "43TK",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "NOVI SAD (ŽELEZNIČKA STANICA) - STEPANOVIĆEVO / TANKOSIĆEVO",
+          "headsign": "NOVI SAD (ŽELEZNIČKA STANICA) - STEPANOVIĆEVO / TANKOSIĆEVO",
+          "variants": 1,
+          "tripCount": 23,
+          "stops": 26,
+          "lengthKm": 26.05,
+          "stats": {
+            "observations": 1301,
+            "matched": 1301,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.0961740996605283,
+            "roundaboutSegs": 12,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "STEPANOVIĆEVO /TANKOSIĆEVA - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "headsign": "STEPANOVIĆEVO /TANKOSIĆEVA - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "variants": 1,
+          "tripCount": 31,
+          "stops": 25,
+          "lengthKm": 25.76,
+          "stats": {
+            "observations": 1287,
+            "matched": 1287,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.539189722996789,
+            "roundaboutSegs": 13,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "52",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "NOVI SAD (ŽELEZNIČKA STANICA) - VETERNIK",
+          "headsign": "NOVI SAD (ŽELEZNIČKA STANICA) - VETERNIK",
+          "variants": 1,
+          "tripCount": 47,
+          "stops": 14,
+          "lengthKm": 9.99,
+          "stats": {
+            "observations": 499,
+            "matched": 499,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 4.369221212695104,
+            "roundaboutSegs": 9,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "VETERNIK - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "headsign": "VETERNIK - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "variants": 1,
+          "tripCount": 75,
+          "stops": 19,
+          "lengthKm": 11.52,
+          "stats": {
+            "observations": 576,
+            "matched": 576,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.2395414111876817,
+            "roundaboutSegs": 34,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "53",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "FUTOG (STARI) - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "headsign": "FUTOG (STARI) - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "variants": 1,
+          "tripCount": 46,
+          "stops": 29,
+          "lengthKm": 14.75,
+          "stats": {
+            "observations": 742,
+            "matched": 742,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.9034472492598788,
+            "roundaboutSegs": 10,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "NOVI SAD (ŽELEZNIČKA STANICA) - FUTOG (STARI)",
+          "headsign": "NOVI SAD (ŽELEZNIČKA STANICA) - FUTOG (STARI)",
+          "variants": 1,
+          "tripCount": 43,
+          "stops": 29,
+          "lengthKm": 15.06,
+          "stats": {
+            "observations": 753,
+            "matched": 753,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.5666417727282544,
+            "roundaboutSegs": 13,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "54",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "FUTOG (GRMEČKA) - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "headsign": "FUTOG (GRMEČKA) - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "variants": 1,
+          "tripCount": 30,
+          "stops": 24,
+          "lengthKm": 13.29,
+          "stats": {
+            "observations": 663,
+            "matched": 663,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.441896525680365,
+            "roundaboutSegs": 10,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "NOVI SAD (ŽELEZNIČKA STANICA) - FUTOG (GRMEČKA)",
+          "headsign": "NOVI SAD (ŽELEZNIČKA STANICA) - FUTOG (GRMEČKA)",
+          "variants": 1,
+          "tripCount": 22,
+          "stops": 24,
+          "lengthKm": 13.37,
+          "stats": {
+            "observations": 669,
+            "matched": 669,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.6033252273359855,
+            "roundaboutSegs": 13,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "54\"A\"",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "FUTOG (AROMA) - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "headsign": "FUTOG (AROMA) - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "variants": 1,
+          "tripCount": 2,
+          "stops": 28,
+          "lengthKm": 14.9,
+          "stats": {
+            "observations": 745,
+            "matched": 745,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.5173112514220237,
+            "roundaboutSegs": 10,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "NOVI SAD (ŽELEZNIČKA STANICA) - FUTOG (AROMA)",
+          "headsign": "NOVI SAD (ŽELEZNIČKA STANICA) - FUTOG (AROMA)",
+          "variants": 1,
+          "tripCount": 2,
+          "stops": 28,
+          "lengthKm": 15.01,
+          "stats": {
+            "observations": 750,
+            "matched": 750,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.6679706314893459,
+            "roundaboutSegs": 13,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "54KF",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "FUTOG (OD KANALA NOVIM FUTOGOM) - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "headsign": "FUTOG (OD KANALA NOVIM FUTOGOM) - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "variants": 1,
+          "tripCount": 2,
+          "stops": 26,
+          "lengthKm": 14.8,
+          "stats": {
+            "observations": 721,
+            "matched": 721,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 4.437188437875747,
+            "roundaboutSegs": 10,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "54ŽA",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "FUTOG (GRMEČKA- AROME) - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "headsign": "FUTOG (GRMEČKA- AROME) - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "variants": 1,
+          "tripCount": 6,
+          "stops": 30,
+          "lengthKm": 16.83,
+          "stats": {
+            "observations": 841,
+            "matched": 841,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.6718292672001855,
+            "roundaboutSegs": 10,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "NOVI SAD (ŽELEZNIČKA STANICA) - FUTOG (GRMEČKA-DO AROME)",
+          "headsign": "NOVI SAD (ŽELEZNIČKA STANICA) - FUTOG (GRMEČKA-DO AROME)",
+          "variants": 1,
+          "tripCount": 6,
+          "stops": 30,
+          "lengthKm": 17.01,
+          "stats": {
+            "observations": 853,
+            "matched": 853,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.803929343451101,
+            "roundaboutSegs": 13,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "55",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "FUTOG (BRAĆE BOŠNJAK) - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "headsign": "FUTOG (BRAĆE BOŠNJAK) - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "variants": 1,
+          "tripCount": 102,
+          "stops": 32,
+          "lengthKm": 16.15,
+          "stats": {
+            "observations": 807,
+            "matched": 807,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8406624891091328,
+            "roundaboutSegs": 10,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "NOVI SAD (ŽELEZNIČKA STANICA) - FUTOG (BRAĆE BOŠNJAK)",
+          "headsign": "NOVI SAD (ŽELEZNIČKA STANICA) - FUTOG (BRAĆE BOŠNJAK)",
+          "variants": 1,
+          "tripCount": 83,
+          "stops": 32,
+          "lengthKm": 16.31,
+          "stats": {
+            "observations": 814,
+            "matched": 814,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.9800292721601258,
+            "roundaboutSegs": 13,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "55KN",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "ZONA SEVER (VISKOFAN/ NEOPLANTA) - ZONA JUG (ALBUS) - FUTOG (BRAĆE BOŠNJAK)",
+          "headsign": "ZONA SEVER (VISKOFAN/ NEOPLANTA) - ZONA JUG (ALBUS) - FUTOG (BRAĆE BOŠNJAK)",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 42,
+          "lengthKm": 22.31,
+          "stats": {
+            "observations": 1109,
+            "matched": 1109,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.6067184334655664,
+            "roundaboutSegs": 24,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "55NK",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "FUTOG (BRAĆE BOŠNJAK) - ZONA JUG (ALBUS) - ZONA SEVER ( VISKOFAN/ NEOPLANTA)",
+          "headsign": "FUTOG (BRAĆE BOŠNJAK) - ZONA JUG (ALBUS) - ZONA SEVER ( VISKOFAN/ NEOPLANTA)",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 43,
+          "lengthKm": 22.41,
+          "stats": {
+            "observations": 1117,
+            "matched": 1117,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.1894420807058723,
+            "roundaboutSegs": 35,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "56",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "BEGEČ (BRAĆE BOŠNJAK) - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "headsign": "BEGEČ (BRAĆE BOŠNJAK) - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 39,
+          "lengthKm": 21.41,
+          "stats": {
+            "observations": 1071,
+            "matched": 1071,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.477571404510397,
+            "roundaboutSegs": 16,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "BEGEČ (DO CENTRA NOVOG SADA) - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "headsign": "BEGEČ (DO CENTRA NOVOG SADA) - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 28,
+          "lengthKm": 21.55,
+          "stats": {
+            "observations": 1078,
+            "matched": 1078,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.2967546085400843,
+            "roundaboutSegs": 12,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "BEGEČ (KROZ STARI FUTOG) - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "headsign": "BEGEČ (KROZ STARI FUTOG) - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "variants": 1,
+          "tripCount": 4,
+          "stops": 33,
+          "lengthKm": 22.33,
+          "stats": {
+            "observations": 1117,
+            "matched": 1117,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.378426869164996,
+            "roundaboutSegs": 16,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "BEGEČ - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "headsign": "BEGEČ - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "variants": 1,
+          "tripCount": 47,
+          "stops": 26,
+          "lengthKm": 20.23,
+          "stats": {
+            "observations": 1012,
+            "matched": 1012,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.236281294967295,
+            "roundaboutSegs": 16,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "NOVI SAD (ŽELEZNIČKA STANICA) - BEGEČ",
+          "headsign": "NOVI SAD (ŽELEZNIČKA STANICA) - BEGEČ",
+          "variants": 1,
+          "tripCount": 41,
+          "stops": 25,
+          "lengthKm": 20.35,
+          "stats": {
+            "observations": 1018,
+            "matched": 1018,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.3328789512931722,
+            "roundaboutSegs": 25,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "NOVI SAD (ŽELEZNIČKA STANICA) - BEGEČ (BRAĆE BOŠNJAK)",
+          "headsign": "NOVI SAD (ŽELEZNIČKA STANICA) - BEGEČ (BRAĆE BOŠNJAK)",
+          "variants": 1,
+          "tripCount": 2,
+          "stops": 39,
+          "lengthKm": 21.68,
+          "stats": {
+            "observations": 1085,
+            "matched": 1085,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.5755047457345548,
+            "roundaboutSegs": 25,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "NOVI SAD (ŽELEZNIČKA STANICA) - BEGEČ (KROZ NOVI SAD I STARI FUTOG)",
+          "headsign": "NOVI SAD (ŽELEZNIČKA STANICA) - BEGEČ (KROZ NOVI SAD I STARI FUTOG)",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 42,
+          "lengthKm": 22.56,
+          "stats": {
+            "observations": 1128,
+            "matched": 1128,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.5616087330144763,
+            "roundaboutSegs": 25,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "NOVI SAD (ŽELEZNIČKA STANICA) - BEGEČ (KROZ STARI FUTOG)",
+          "headsign": "NOVI SAD (ŽELEZNIČKA STANICA) - BEGEČ (KROZ STARI FUTOG)",
+          "variants": 1,
+          "tripCount": 2,
+          "stops": 32,
+          "lengthKm": 22.56,
+          "stats": {
+            "observations": 1128,
+            "matched": 1128,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.5616087330144763,
+            "roundaboutSegs": 25,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "60",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "NOVI SAD (AUTOBUSKA STANICA) - SREMSKI KARLOVCI (BELILO 2)",
+          "headsign": "NOVI SAD (AUTOBUSKA STANICA) - SREMSKI KARLOVCI (BELILO 2)",
+          "variants": 1,
+          "tripCount": 5,
+          "stops": 20,
+          "lengthKm": 15.07,
+          "stats": {
+            "observations": 754,
+            "matched": 754,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.884875842748958,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "SREMSKI KARLOVCI (BELILO 2) - NOVI SAD (AUTOBUSKA STANICA)",
+          "headsign": "SREMSKI KARLOVCI (BELILO 2) - NOVI SAD (AUTOBUSKA STANICA)",
+          "variants": 1,
+          "tripCount": 5,
+          "stops": 20,
+          "lengthKm": 15.12,
+          "stats": {
+            "observations": 756,
+            "matched": 756,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.9952976462172491,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "61",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "NOVI SAD (AUTOBUSKA STANICA) - SREMSKI KARLOVCI (VINOGRADARSKA)",
+          "headsign": "NOVI SAD (AUTOBUSKA STANICA) - SREMSKI KARLOVCI (VINOGRADARSKA)",
+          "variants": 1,
+          "tripCount": 28,
+          "stops": 18,
+          "lengthKm": 13.73,
+          "stats": {
+            "observations": 687,
+            "matched": 687,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8720496028390257,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "SREMSKI KARLOVCI (VINOGRADARSKA /KROZ DUDARU) - NOVI SAD (AUTOBUSKA STANICA)",
+          "headsign": "SREMSKI KARLOVCI (VINOGRADARSKA /KROZ DUDARU) - NOVI SAD (AUTOBUSKA STANICA)",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 23,
+          "lengthKm": 16.24,
+          "stats": {
+            "observations": 809,
+            "matched": 809,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.014876872260452,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "SREMSKI KARLOVCI (VINOGRADARSKA) - NOVI SAD (AUTOBUSKA STANICA)",
+          "headsign": "SREMSKI KARLOVCI (VINOGRADARSKA) - NOVI SAD (AUTOBUSKA STANICA)",
+          "variants": 1,
+          "tripCount": 26,
+          "stops": 18,
+          "lengthKm": 13.79,
+          "stats": {
+            "observations": 689,
+            "matched": 689,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.9915890951098238,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "61CKR",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "SREMSKI KARLOVCI (VINOGRADARSKA / KROZ CENTAR SREMSKIH KARLOVACA) - NOVI SAD (AUTOBUSKA STANICA)",
+          "headsign": "SREMSKI KARLOVCI (VINOGRADARSKA / KROZ CENTAR SREMSKIH KARLOVACA)  - NOVI SAD (AUTOBUSKA STANICA)",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 19,
+          "lengthKm": 14.21,
+          "stats": {
+            "observations": 709,
+            "matched": 709,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.9590183079009986,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "62",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "NOVI SAD (AUTOBUSKA STANICA) - SREMSKI KARLOVCI (DUDARA / VINOGRADARSKA)",
+          "headsign": "NOVI SAD (AUTOBUSKA STANICA) - SREMSKI KARLOVCI (DUDARA / VINOGRADARSKA)",
+          "variants": 1,
+          "tripCount": 14,
+          "stops": 22,
+          "lengthKm": 15.61,
+          "stats": {
+            "observations": 781,
+            "matched": 781,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8551874342929706,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "NOVI SAD (AUTOBUSKA STANICA) - SREMSKI KARLOVCI (DUDARA)",
+          "headsign": "NOVI SAD (AUTOBUSKA STANICA) - SREMSKI KARLOVCI (DUDARA)",
+          "variants": 1,
+          "tripCount": 33,
+          "stops": 19,
+          "lengthKm": 14.41,
+          "stats": {
+            "observations": 720,
+            "matched": 720,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8406337869505613,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "SREMSKI KARLOVCI (DUDARA / VINOGRADARSKA) - NOVI SAD (AUTOBUSKA STANICA)",
+          "headsign": "SREMSKI KARLOVCI (DUDARA / VINOGRADARSKA) - NOVI SAD (AUTOBUSKA STANICA)",
+          "variants": 1,
+          "tripCount": 18,
+          "stops": 22,
+          "lengthKm": 15.57,
+          "stats": {
+            "observations": 778,
+            "matched": 778,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.9363965869821684,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "SREMSKI KARLOVCI (DUDARA) - NOVI SAD (AUTOBUSKA STANICA)",
+          "headsign": "SREMSKI KARLOVCI (DUDARA) - NOVI SAD (AUTOBUSKA STANICA)",
+          "variants": 1,
+          "tripCount": 35,
+          "stops": 19,
+          "lengthKm": 14.38,
+          "stats": {
+            "observations": 716,
+            "matched": 716,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.9083728056265252,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "63",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "NOVI SAD (AUTOBUSKA STANICA) - ČORTANOVCI",
+          "headsign": "NOVI SAD (AUTOBUSKA STANICA) - ČORTANOVCI",
+          "variants": 1,
+          "tripCount": 6,
+          "stops": 22,
+          "lengthKm": 24.09,
+          "stats": {
+            "observations": 1205,
+            "matched": 1205,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.1049546356971014,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "ČORTANOVCI - NOVI SAD (AUTOBUSKA STANICA)",
+          "headsign": "ČORTANOVCI - NOVI SAD (AUTOBUSKA STANICA)",
+          "variants": 1,
+          "tripCount": 7,
+          "stops": 21,
+          "lengthKm": 24.11,
+          "stats": {
+            "observations": 1204,
+            "matched": 1204,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.168902129341894,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "64",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "BUKOVAC (KROZ CENTAR DO FUTOŠKOG STAJALIŠTA) - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "headsign": "BUKOVAC (KROZ CENTAR DO FUTOŠKOG STAJALIŠTA) - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 21,
+          "lengthKm": 11.76,
+          "stats": {
+            "observations": 588,
+            "matched": 588,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.0087494500636405,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "BUKOVAC - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "headsign": "BUKOVAC - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "variants": 1,
+          "tripCount": 47,
+          "stops": 23,
+          "lengthKm": 12.48,
+          "stats": {
+            "observations": 612,
+            "matched": 612,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.2125539578126947,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 164
+          }
+        },
+        {
+          "dir": "NOVI SAD (ŽELEZNIČKA STANICA) - BUKOVAC",
+          "headsign": "NOVI SAD (ŽELEZNIČKA STANICA) - BUKOVAC",
+          "variants": 1,
+          "tripCount": 46,
+          "stops": 23,
+          "lengthKm": 12.44,
+          "stats": {
+            "observations": 622,
+            "matched": 622,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8543281132109346,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "68",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "NOVI SAD (ŽELEZNIČKA STANICA) - SREMSKA KAMENICA (VOJINOVO)",
+          "headsign": "NOVI SAD (ŽELEZNIČKA STANICA) - SREMSKA KAMENICA (VOJINOVO)",
+          "variants": 1,
+          "tripCount": 6,
+          "stops": 13,
+          "lengthKm": 8.03,
+          "stats": {
+            "observations": 401,
+            "matched": 401,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.8573790048233345,
+            "roundaboutSegs": 5,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "SREMSKA KAMENICA (VOJINOVO) - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "headsign": "SREMSKA KAMENICA (VOJINOVO) - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "variants": 1,
+          "tripCount": 11,
+          "stops": 13,
+          "lengthKm": 8.23,
+          "stats": {
+            "observations": 411,
+            "matched": 411,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.2108987569609284,
+            "roundaboutSegs": 15,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "SREMSKA KAMENICA (VOJINOVO/ PARAGOVO) - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "headsign": "SREMSKA KAMENICA (VOJINOVO/ PARAGOVO) - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 18,
+          "lengthKm": 14.84,
+          "stats": {
+            "observations": 742,
+            "matched": 742,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.59474718365147,
+            "roundaboutSegs": 15,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "68IS",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "NOVI SAD (ŽELEZNIČKA STANICA) - SREMSKA KAMENICA (VOJINOVO / KROZ INSTITUT)",
+          "headsign": "NOVI SAD (ŽELEZNIČKA STANICA) - SREMSKA KAMENICA (VOJINOVO / KROZ INSTITUT)",
+          "variants": 1,
+          "tripCount": 9,
+          "stops": 14,
+          "lengthKm": 9.18,
+          "stats": {
+            "observations": 457,
+            "matched": 457,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.545043918842989,
+            "roundaboutSegs": 24,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "SREMSKA KAMENICA (VOJINOVO / KROZ INSTITUT) - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "headsign": "SREMSKA KAMENICA (VOJINOVO / KROZ INSTITUT) - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "variants": 1,
+          "tripCount": 6,
+          "stops": 14,
+          "lengthKm": 9.39,
+          "stats": {
+            "observations": 469,
+            "matched": 469,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.4011772314564923,
+            "roundaboutSegs": 15,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "69",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "NOVI SAD (ŽELEZNIČKA STANICA) - SREMSKA KAMENICA (ČARDAK)",
+          "headsign": "NOVI SAD (ŽELEZNIČKA STANICA) - SREMSKA KAMENICA (ČARDAK)",
+          "variants": 1,
+          "tripCount": 28,
+          "stops": 24,
+          "lengthKm": 13.77,
+          "stats": {
+            "observations": 683,
+            "matched": 683,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.842469318192669,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "SREMSKA KAMENICA (ČARDAK) (PREKO MOSTA SLOBODE) - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "headsign": "SREMSKA KAMENICA (ČARDAK) (PREKO MOSTA SLOBODE) - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 17,
+          "lengthKm": 10.75,
+          "stats": {
+            "observations": 539,
+            "matched": 539,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.235012302422605,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "SREMSKA KAMENICA (ČARDAK) - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "headsign": "SREMSKA KAMENICA (ČARDAK) - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "variants": 1,
+          "tripCount": 43,
+          "stops": 25,
+          "lengthKm": 13.55,
+          "stats": {
+            "observations": 681,
+            "matched": 681,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.994793778692641,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "71",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "NOVI SAD (ŽELEZNIČKA STANICA) - SREMSKA KAMENICA (BOCKE / KROZ ČARDAK)",
+          "headsign": "NOVI SAD (ŽELEZNIČKA STANICA) - SREMSKA KAMENICA (BOCKE / KROZ ČARDAK)",
+          "variants": 1,
+          "tripCount": 5,
+          "stops": 25,
+          "lengthKm": 15.4,
+          "stats": {
+            "observations": 750,
+            "matched": 750,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.425672208403538,
+            "roundaboutSegs": 5,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "NOVI SAD (ŽELEZNIČKA STANICA) - SREMSKA KAMENICA (BOCKE / VARADINSKIM MOSTOM KROZ ČARDAK)",
+          "headsign": "NOVI SAD (ŽELEZNIČKA STANICA) - SREMSKA KAMENICA (BOCKE / VARADINSKIM MOSTOM KROZ ČARDAK)",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 33,
+          "lengthKm": 20.02,
+          "stats": {
+            "observations": 1000,
+            "matched": 1000,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.7870713608883015,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "NOVI SAD (ŽELEZNIČKA STANICA) - SREMSKA KAMENICA (BOCKE)",
+          "headsign": "NOVI SAD (ŽELEZNIČKA STANICA) - SREMSKA KAMENICA (BOCKE)",
+          "variants": 1,
+          "tripCount": 31,
+          "stops": 15,
+          "lengthKm": 9,
+          "stats": {
+            "observations": 451,
+            "matched": 451,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.6942433554834695,
+            "roundaboutSegs": 5,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "SREMSKA KAMENICA (BOCKE / KROZ ČARDAK) - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "headsign": "SREMSKA KAMENICA (BOCKE / KROZ ČARDAK) - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 24,
+          "lengthKm": 15.51,
+          "stats": {
+            "observations": 759,
+            "matched": 759,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.0102408405623784,
+            "roundaboutSegs": 12,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "SREMSKA KAMENICA (BOCKE /kroz Čardak i Trandžament) - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "headsign": "SREMSKA KAMENICA (BOCKE /kroz Čardak  i Trandžament) - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 35,
+          "lengthKm": 19.82,
+          "stats": {
+            "observations": 992,
+            "matched": 992,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.887742392686959,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "SREMSKA KAMENICA (BOCKE) - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "headsign": "SREMSKA KAMENICA (BOCKE) - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "variants": 1,
+          "tripCount": 38,
+          "stops": 15,
+          "lengthKm": 9.28,
+          "stats": {
+            "observations": 464,
+            "matched": 464,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.0774420539918963,
+            "roundaboutSegs": 15,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "71IS",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "NOVI SAD (ŽELEZNIČKA STANICA) - SREMSKA KAMENICA (BOCKE / KROZ INSTITUT)",
+          "headsign": "NOVI SAD (ŽELEZNIČKA STANICA) - SREMSKA KAMENICA (BOCKE / KROZ INSTITUT)",
+          "variants": 1,
+          "tripCount": 22,
+          "stops": 16,
+          "lengthKm": 10.15,
+          "stats": {
+            "observations": 506,
+            "matched": 506,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.9270915457830973,
+            "roundaboutSegs": 24,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "SREMSKA KAMENICA (BOCKE / KROZ INSTITUT) - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "headsign": "SREMSKA KAMENICA (BOCKE / KROZ INSTITUT) - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "variants": 1,
+          "tripCount": 21,
+          "stops": 16,
+          "lengthKm": 10.28,
+          "stats": {
+            "observations": 514,
+            "matched": 514,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.4808213685744085,
+            "roundaboutSegs": 15,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "72",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "NOVI SAD (ŽELEZNIČKA STANICA) - SREMSKA KAMENICA (PARAGOVO)",
+          "headsign": "NOVI SAD (ŽELEZNIČKA STANICA) - SREMSKA KAMENICA (PARAGOVO)",
+          "variants": 1,
+          "tripCount": 37,
+          "stops": 18,
+          "lengthKm": 10.92,
+          "stats": {
+            "observations": 546,
+            "matched": 546,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.887160276041347,
+            "roundaboutSegs": 5,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "SREMSKA KAMENICA (PARAGOVO) - NOVI SAD ( ŽELEZNIČKA STANICA)",
+          "headsign": "SREMSKA KAMENICA (PARAGOVO) - NOVI SAD ( ŽELEZNIČKA STANICA)",
+          "variants": 1,
+          "tripCount": 41,
+          "stops": 17,
+          "lengthKm": 11.2,
+          "stats": {
+            "observations": 559,
+            "matched": 559,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.5753991261568214,
+            "roundaboutSegs": 15,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "72IS",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "NOVI SAD (ŽELEZNIČKA STANICA) - SREMSKA KAMENICA (PARAGOVO / KROZ INSTITUT)",
+          "headsign": "NOVI SAD (ŽELEZNIČKA STANICA) - SREMSKA KAMENICA (PARAGOVO / KROZ INSTITUT)",
+          "variants": 1,
+          "tripCount": 4,
+          "stops": 19,
+          "lengthKm": 12.1,
+          "stats": {
+            "observations": 604,
+            "matched": 604,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.117490394715935,
+            "roundaboutSegs": 24,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "SREMSKA KAMENICA (PARAGOVO / KROZ INSTITUT) - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "headsign": "SREMSKA KAMENICA (PARAGOVO / KROZ INSTITUT) - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 18,
+          "lengthKm": 12.31,
+          "stats": {
+            "observations": 619,
+            "matched": 619,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.652382799217126,
+            "roundaboutSegs": 9,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "73",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "NOVI SAD (ŽELEZNIČKA STANICA) - SREMSKA KAMENICA (MOŠINA VILA)",
+          "headsign": "NOVI SAD (ŽELEZNIČKA STANICA) - SREMSKA KAMENICA (MOŠINA VILA)",
+          "variants": 1,
+          "tripCount": 6,
+          "stops": 17,
+          "lengthKm": 10.6,
+          "stats": {
+            "observations": 528,
+            "matched": 528,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.5749822951639016,
+            "roundaboutSegs": 5,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "SREMSKA KAMENICA (MOŠINA VILA) - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "headsign": "SREMSKA KAMENICA (MOŠINA VILA) - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "variants": 1,
+          "tripCount": 6,
+          "stops": 17,
+          "lengthKm": 11.03,
+          "stats": {
+            "observations": 542,
+            "matched": 542,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.767596728745326,
+            "roundaboutSegs": 12,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "73IS",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "SREMSKA KAMENICA (MOŠINA VILA/KROZ INSTITUT) - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "headsign": "SREMSKA KAMENICA (MOŠINA VILA/KROZ INSTITUT) - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "variants": 1,
+          "tripCount": 2,
+          "stops": 18,
+          "lengthKm": 11.83,
+          "stats": {
+            "observations": 592,
+            "matched": 592,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.843666764198182,
+            "roundaboutSegs": 15,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "74",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "NOVI SAD (ŽELEZNIČKA STANICA) - SREMSKA KAMENICA (POPOVICA / KROZ INSTITUT)",
+          "headsign": "NOVI SAD (ŽELEZNIČKA STANICA) - SREMSKA KAMENICA (POPOVICA / KROZ INSTITUT)",
+          "variants": 1,
+          "tripCount": 4,
+          "stops": 26,
+          "lengthKm": 15.25,
+          "stats": {
+            "observations": 757,
+            "matched": 757,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 4.111508077767068,
+            "roundaboutSegs": 24,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "NOVI SAD (ŽELEZNIČKA STANICA) - SREMSKA KAMENICA (POPOVICA)",
+          "headsign": "NOVI SAD (ŽELEZNIČKA STANICA) - SREMSKA KAMENICA (POPOVICA)",
+          "variants": 1,
+          "tripCount": 42,
+          "stops": 25,
+          "lengthKm": 14.08,
+          "stats": {
+            "observations": 702,
+            "matched": 702,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 4.0611278288576855,
+            "roundaboutSegs": 5,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "SREMSKA KAMENICA (POPOVICA) - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "headsign": "SREMSKA KAMENICA (POPOVICA) - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "variants": 1,
+          "tripCount": 42,
+          "stops": 25,
+          "lengthKm": 14.36,
+          "stats": {
+            "observations": 715,
+            "matched": 715,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.6916809538151965,
+            "roundaboutSegs": 15,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "76",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "NOVI SAD (ŽELEZNIČKA STANICA) - STARI LEDINCI",
+          "headsign": "NOVI SAD (ŽELEZNIČKA STANICA) - STARI LEDINCI",
+          "variants": 1,
+          "tripCount": 7,
+          "stops": 24,
+          "lengthKm": 14.05,
+          "stats": {
+            "observations": 703,
+            "matched": 703,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.5139176773309546,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "NOVI SAD (ŽELEZNIČKA STANICA) - STARI LEDINCI (CENTAR ZA OSNOVNU POLICIJSKU OBUKU U SREMSKOJ KAMENICI)",
+          "headsign": "NOVI SAD (ŽELEZNIČKA STANICA) - STARI LEDINCI (CENTAR ZA OSNOVNU POLICIJSKU OBUKU U SREMSKOJ KAMENICI)",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 27,
+          "lengthKm": 15.44,
+          "stats": {
+            "observations": 772,
+            "matched": 772,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.742304707211901,
+            "roundaboutSegs": 5,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "NOVI SAD (ŽELEZNIČKA STANICA) - STARI LEDINCI (KROZ NOVE LEDINCE)",
+          "headsign": "NOVI SAD (ŽELEZNIČKA STANICA) - STARI LEDINCI (KROZ NOVE LEDINCE)",
+          "variants": 1,
+          "tripCount": 31,
+          "stops": 26,
+          "lengthKm": 15.42,
+          "stats": {
+            "observations": 733,
+            "matched": 733,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.3546204573509253,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 679
+          }
+        },
+        {
+          "dir": "NOVI SAD (ŽELEZNIČKA STANICA) - STARI LEDINCI (TRASOM LINIJE 71 - BOCKE)",
+          "headsign": "NOVI SAD (ŽELEZNIČKA STANICA) - STARI LEDINCI (TRASOM LINIJE 71 - BOCKE)",
+          "variants": 1,
+          "tripCount": 2,
+          "stops": 26,
+          "lengthKm": 14.4,
+          "stats": {
+            "observations": 720,
+            "matched": 720,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.7567121556058347,
+            "roundaboutSegs": 5,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "STARI LEDINCI (KROZ NOVE LEDINCE) - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "headsign": "STARI LEDINCI (KROZ NOVE LEDINCE) - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "variants": 1,
+          "tripCount": 21,
+          "stops": 26,
+          "lengthKm": 15.42,
+          "stats": {
+            "observations": 772,
+            "matched": 772,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.2401182092626604,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "STARI LEDINCI (TRASOM LINIJE 71- BOCKE) - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "headsign": "STARI LEDINCI (TRASOM LINIJE 71- BOCKE) - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 27,
+          "lengthKm": 15.68,
+          "stats": {
+            "observations": 783,
+            "matched": 783,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.3419004232314724,
+            "roundaboutSegs": 15,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "STARI LEDINCI - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "headsign": "STARI LEDINCI - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "variants": 1,
+          "tripCount": 21,
+          "stops": 26,
+          "lengthKm": 15.5,
+          "stats": {
+            "observations": 776,
+            "matched": 776,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.1850772076829985,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "77",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "NOVI SAD (AUTOBUSKA STANICA) - STARI RAKOVAC",
+          "headsign": "NOVI SAD (AUTOBUSKA STANICA) - STARI RAKOVAC",
+          "variants": 1,
+          "tripCount": 4,
+          "stops": 23,
+          "lengthKm": 16.36,
+          "stats": {
+            "observations": 823,
+            "matched": 823,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.9130354262020566,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "STARI RAKOVAC - NOVI SAD (AUTOBUSKA STANICA)",
+          "headsign": "STARI RAKOVAC - NOVI SAD (AUTOBUSKA STANICA)",
+          "variants": 1,
+          "tripCount": 5,
+          "stops": 24,
+          "lengthKm": 16.88,
+          "stats": {
+            "observations": 837,
+            "matched": 837,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.8223684663846202,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "78",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "BEOČIN SELO (KROZ STARI RAKOVAC) - NOVI SAD (AUTOBUSKA STANICA)",
+          "headsign": "BEOČIN SELO (KROZ STARI RAKOVAC) - NOVI SAD (AUTOBUSKA STANICA)",
+          "variants": 1,
+          "tripCount": 4,
+          "stops": 42,
+          "lengthKm": 26.19,
+          "stats": {
+            "observations": 1310,
+            "matched": 1310,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.3432957956618017,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "BEOČIN SELO - NOVI SAD (AUTOBUSKA STANICA)",
+          "headsign": "BEOČIN SELO - NOVI SAD (AUTOBUSKA STANICA)",
+          "variants": 1,
+          "tripCount": 10,
+          "stops": 25,
+          "lengthKm": 19.2,
+          "stats": {
+            "observations": 960,
+            "matched": 960,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.9168430750866083,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "NOVI SAD (AUTOBUSKA STANICA) - BEOČIN SELO",
+          "headsign": "NOVI SAD (AUTOBUSKA STANICA) - BEOČIN SELO",
+          "variants": 1,
+          "tripCount": 6,
+          "stops": 25,
+          "lengthKm": 18.94,
+          "stats": {
+            "observations": 947,
+            "matched": 947,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.1829914455696273,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "NOVI SAD (AUTOBUSKA STANICA) - BEOČIN SELO (KROZ STARI RAKOVAC)",
+          "headsign": "NOVI SAD (AUTOBUSKA STANICA) - BEOČIN SELO (KROZ STARI RAKOVAC)",
+          "variants": 1,
+          "tripCount": 4,
+          "stops": 42,
+          "lengthKm": 25.92,
+          "stats": {
+            "observations": 1303,
+            "matched": 1303,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.2341598195005834,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "79",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "NOVI SAD (AUTOBUSKA STANICA) - ČEREVIĆ",
+          "headsign": "NOVI SAD (AUTOBUSKA STANICA) - ČEREVIĆ",
+          "variants": 1,
+          "tripCount": 14,
+          "stops": 30,
+          "lengthKm": 24.22,
+          "stats": {
+            "observations": 1211,
+            "matched": 1211,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.188634807527674,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "NOVI SAD (AUTOBUSKA STANICA) - ČEREVIĆ (KROZ BEOČIN SELO)",
+          "headsign": "NOVI SAD (AUTOBUSKA STANICA) - ČEREVIĆ (KROZ BEOČIN SELO)",
+          "variants": 1,
+          "tripCount": 13,
+          "stops": 38,
+          "lengthKm": 28.87,
+          "stats": {
+            "observations": 1443,
+            "matched": 1443,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.0133148001766807,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "NOVI SAD (AUTOBUSKA STANICA) - ČEREVIĆ (KROZ STARI RAKOVAC)",
+          "headsign": "NOVI SAD (AUTOBUSKA STANICA) - ČEREVIĆ (KROZ STARI RAKOVAC)",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 47,
+          "lengthKm": 31.17,
+          "stats": {
+            "observations": 1551,
+            "matched": 1551,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.619069417619478,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "ČEREVIĆ (KROZ BEOČIN SELO) - NOVI SAD (AUTOBUSKA STANICA)",
+          "headsign": "ČEREVIĆ (KROZ BEOČIN SELO) - NOVI SAD (AUTOBUSKA STANICA)",
+          "variants": 1,
+          "tripCount": 5,
+          "stops": 38,
+          "lengthKm": 29.16,
+          "stats": {
+            "observations": 1457,
+            "matched": 1457,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8736442856020195,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "ČEREVIĆ (OD BANOŠTORA) - NOVI SAD (AUTOBUSKA STANICA)",
+          "headsign": "ČEREVIĆ (OD BANOŠTORA) - NOVI SAD (AUTOBUSKA STANICA)",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 37,
+          "lengthKm": 29.5,
+          "stats": {
+            "observations": 1475,
+            "matched": 1475,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.143632885303406,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "ČEREVIĆ - NOVI SAD (AUTOBUSKA STANICA)",
+          "headsign": "ČEREVIĆ - NOVI SAD (AUTOBUSKA STANICA)",
+          "variants": 1,
+          "tripCount": 24,
+          "stops": 30,
+          "lengthKm": 24.53,
+          "stats": {
+            "observations": 1226,
+            "matched": 1226,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.9484415385868978,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "80",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "BEOČIN (AUTOBUSKA STANICA) - NOVI SAD (AUTOBUSKA STANICA)",
+          "headsign": "BEOČIN (AUTOBUSKA STANICA) - NOVI SAD (AUTOBUSKA STANICA)",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 21,
+          "lengthKm": 16.95,
+          "stats": {
+            "observations": 846,
+            "matched": 846,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.0357607158377946,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "NOVI SAD (AUTOBUSKA STANICA) - BEOČIN (AUTOBUSKA STANICA)",
+          "headsign": "NOVI SAD (AUTOBUSKA STANICA) - BEOČIN (AUTOBUSKA STANICA)",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 21,
+          "lengthKm": 16.63,
+          "stats": {
+            "observations": 832,
+            "matched": 832,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.3197627771332323,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "81",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "BANOŠTOR - NOVI SAD (AUTOBUSKA STANICA)",
+          "headsign": "BANOŠTOR - NOVI SAD (AUTOBUSKA STANICA)",
+          "variants": 1,
+          "tripCount": 5,
+          "stops": 37,
+          "lengthKm": 29.54,
+          "stats": {
+            "observations": 1479,
+            "matched": 1479,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.8383938631060217,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "NOVI SAD (AUTOBUSKA STANICA) - BANOŠTOR",
+          "headsign": "NOVI SAD (AUTOBUSKA STANICA) - BANOŠTOR",
+          "variants": 1,
+          "tripCount": 4,
+          "stops": 37,
+          "lengthKm": 28.98,
+          "stats": {
+            "observations": 1447,
+            "matched": 1447,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.0285547080015784,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "84",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "LUG (DO BEOČINSKE AUTOBUSKE STANICE) - NOVI SAD (AUTOBUSKA STANICA)",
+          "headsign": "LUG (DO BEOČINSKE AUTOBUSKE STANICE) - NOVI SAD (AUTOBUSKA STANICA)",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 31,
+          "lengthKm": 24.41,
+          "stats": {
+            "observations": 1219,
+            "matched": 1219,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.5340073139335875,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "LUG (KROZ GRABOVO) - NOVI SAD (AUTOBUSKA STANICA)",
+          "headsign": "LUG (KROZ GRABOVO) - NOVI SAD (AUTOBUSKA STANICA)",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 63,
+          "lengthKm": 54.85,
+          "stats": {
+            "observations": 2744,
+            "matched": 2744,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.7520969337088843,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "LUG (KROZ SVILOŠ) - NOVI SAD (AUTOBUSKA STANICA)",
+          "headsign": "LUG (KROZ SVILOŠ) - NOVI SAD (AUTOBUSKA STANICA)",
+          "variants": 1,
+          "tripCount": 6,
+          "stops": 63,
+          "lengthKm": 50.47,
+          "stats": {
+            "observations": 2524,
+            "matched": 2524,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.5380790425453403,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "LUG - NOVI SAD (AUTOBUSKA STANICA)",
+          "headsign": "LUG - NOVI SAD (AUTOBUSKA STANICA)",
+          "variants": 1,
+          "tripCount": 8,
+          "stops": 51,
+          "lengthKm": 41.34,
+          "stats": {
+            "observations": 2067,
+            "matched": 2067,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.3538207288498545,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "NOVI SAD (AUTOBUSKA STANICA) - LUG",
+          "headsign": "NOVI SAD (AUTOBUSKA STANICA) - LUG",
+          "variants": 1,
+          "tripCount": 8,
+          "stops": 51,
+          "lengthKm": 41.05,
+          "stats": {
+            "observations": 2051,
+            "matched": 2051,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.4474906624533768,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "NOVI SAD (AUTOBUSKA STANICA) - LUG (KROZ GRABOVO)",
+          "headsign": "NOVI SAD (AUTOBUSKA STANICA) - LUG (KROZ GRABOVO)",
+          "variants": 1,
+          "tripCount": 2,
+          "stops": 63,
+          "lengthKm": 54.49,
+          "stats": {
+            "observations": 2724,
+            "matched": 2724,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.797607566059816,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "NOVI SAD (AUTOBUSKA STANICA) - LUG (KROZ SVILOŠ)",
+          "headsign": "NOVI SAD (AUTOBUSKA STANICA) - LUG (KROZ SVILOŠ)",
+          "variants": 1,
+          "tripCount": 6,
+          "stops": 63,
+          "lengthKm": 50.2,
+          "stats": {
+            "observations": 2511,
+            "matched": 2511,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.6889292723582923,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "86",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "NOVI SAD (AUTOBUSKA STANICA) - VRDNIK",
+          "headsign": "NOVI SAD (AUTOBUSKA STANICA) - VRDNIK",
+          "variants": 1,
+          "tripCount": 10,
+          "stops": 19,
+          "lengthKm": 25.95,
+          "stats": {
+            "observations": 1298,
+            "matched": 1298,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.9053399804120907,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "VRDNIK - NOVI SAD (AUTOBUSKA STANICA)",
+          "headsign": "VRDNIK - NOVI SAD (AUTOBUSKA STANICA)",
+          "variants": 1,
+          "tripCount": 10,
+          "stops": 18,
+          "lengthKm": 25.59,
+          "stats": {
+            "observations": 1277,
+            "matched": 1277,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.765774355981802,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    }
+  ]
+}
