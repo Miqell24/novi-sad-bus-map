@@ -436,55 +436,6 @@
       ]
     },
     {
-      "line": "5N",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "TEMERINSKI PUT - NAJLON - ŽELEZNIČKA STANICA",
-          "headsign": "TEMERINSKI PUT - NAJLON - ŽELEZNIČKA STANICA",
-          "variants": 1,
-          "tripCount": 30,
-          "stops": 17,
-          "lengthKm": 7.58,
-          "stats": {
-            "observations": 379,
-            "matched": 379,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 2.4618374325876506,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "ŽELEZNIČKA STANICA - NAJLON - TEMERINSKI PUT",
-          "headsign": "ŽELEZNIČKA STANICA - NAJLON - TEMERINSKI PUT",
-          "variants": 1,
-          "tripCount": 30,
-          "stops": 18,
-          "lengthKm": 7.75,
-          "stats": {
-            "observations": 387,
-            "matched": 387,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 2.0006606043082575,
-            "roundaboutSegs": 17,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ]
-    },
-    {
       "line": "6",
       "mode": "bus",
       "color": "#0059a9",
@@ -1367,55 +1318,6 @@
       ]
     },
     {
-      "line": "15NK",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "CENTAR - INDUSTRIJSKA ZONA SEVER NEOPLANTA/KOTEKS",
-          "headsign": "CENTAR - INDUSTRIJSKA ZONA SEVER NEOPLANTA/KOTEKS",
-          "variants": 1,
-          "tripCount": 13,
-          "stops": 16,
-          "lengthKm": 7.74,
-          "stats": {
-            "observations": 387,
-            "matched": 387,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 2.4369374918376376,
-            "roundaboutSegs": 13,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "INDUSTRIJSKA ZONA SEVER NEOPLANTA/KOTEKS - CENTAR",
-          "headsign": "INDUSTRIJSKA ZONA SEVER NEOPLANTA/KOTEKS - CENTAR",
-          "variants": 1,
-          "tripCount": 10,
-          "stops": 15,
-          "lengthKm": 9.39,
-          "stats": {
-            "observations": 471,
-            "matched": 471,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 3.266057215726844,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ]
-    },
-    {
       "line": "16",
       "mode": "bus",
       "color": "#0059a9",
@@ -1912,34 +1814,6 @@
             "rawStretchCount": 0,
             "rawMeters": 0,
             "meanError": 2.7310507280206853,
-            "roundaboutSegs": 9,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ]
-    },
-    {
-      "line": "23NT",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "BUDISAVA (KROZ KAĆ) - NOVI SAD (ŽELEZNIČKA STANICA)",
-          "headsign": "BUDISAVA (KROZ KAĆ) - NOVI SAD (ŽELEZNIČKA STANICA)",
-          "variants": 1,
-          "tripCount": 4,
-          "stops": 20,
-          "lengthKm": 20.75,
-          "stats": {
-            "observations": 1041,
-            "matched": 1041,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 2.6296893699953814,
             "roundaboutSegs": 9,
             "extStart": 0,
             "extEnd": 0
@@ -2683,34 +2557,6 @@
       ]
     },
     {
-      "line": "42NK",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "KISAČ - ZONA SEVER (KOTEKS /NEOPLANTA) - ZONA JUG (ALBUS)",
-          "headsign": "KISAČ - ZONA SEVER (KOTEKS /NEOPLANTA) - ZONA JUG (ALBUS)",
-          "variants": 1,
-          "tripCount": 1,
-          "stops": 28,
-          "lengthKm": 23.94,
-          "stats": {
-            "observations": 1197,
-            "matched": 1197,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.8478042644271175,
-            "roundaboutSegs": 26,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ]
-    },
-    {
       "line": "43",
       "mode": "bus",
       "color": "#0059a9",
@@ -3208,34 +3054,6 @@
             "rawMeters": 0,
             "meanError": 3.6067184334655664,
             "roundaboutSegs": 24,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ]
-    },
-    {
-      "line": "55NK",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "FUTOG (BRAĆE BOŠNJAK) - ZONA JUG (ALBUS) - ZONA SEVER ( VISKOFAN/ NEOPLANTA)",
-          "headsign": "FUTOG (BRAĆE BOŠNJAK) - ZONA JUG (ALBUS) - ZONA SEVER ( VISKOFAN/ NEOPLANTA)",
-          "variants": 1,
-          "tripCount": 1,
-          "stops": 43,
-          "lengthKm": 22.41,
-          "stats": {
-            "observations": 1117,
-            "matched": 1117,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 2.1894420807058723,
-            "roundaboutSegs": 35,
             "extStart": 0,
             "extEnd": 0
           }
@@ -5117,6 +4935,193 @@
           }
         }
       ]
+    },
+    {
+      "line": "5N",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "TEMERINSKI PUT - NAJLON - ŽELEZNIČKA STANICA",
+          "headsign": "TEMERINSKI PUT - NAJLON - ŽELEZNIČKA STANICA",
+          "variants": 1,
+          "tripCount": 30,
+          "stops": 17,
+          "lengthKm": 7.58,
+          "stats": {
+            "observations": 379,
+            "matched": 379,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.4618374325876506,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "ŽELEZNIČKA STANICA - NAJLON - TEMERINSKI PUT",
+          "headsign": "ŽELEZNIČKA STANICA - NAJLON - TEMERINSKI PUT",
+          "variants": 1,
+          "tripCount": 30,
+          "stops": 18,
+          "lengthKm": 7.75,
+          "stats": {
+            "observations": 387,
+            "matched": 387,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.0006606043082575,
+            "roundaboutSegs": 17,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "15NK",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "CENTAR - INDUSTRIJSKA ZONA SEVER NEOPLANTA/KOTEKS",
+          "headsign": "CENTAR - INDUSTRIJSKA ZONA SEVER NEOPLANTA/KOTEKS",
+          "variants": 1,
+          "tripCount": 13,
+          "stops": 16,
+          "lengthKm": 7.74,
+          "stats": {
+            "observations": 387,
+            "matched": 387,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.4369374918376376,
+            "roundaboutSegs": 13,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "INDUSTRIJSKA ZONA SEVER NEOPLANTA/KOTEKS - CENTAR",
+          "headsign": "INDUSTRIJSKA ZONA SEVER NEOPLANTA/KOTEKS - CENTAR",
+          "variants": 1,
+          "tripCount": 10,
+          "stops": 15,
+          "lengthKm": 9.39,
+          "stats": {
+            "observations": 471,
+            "matched": 471,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.266057215726844,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "23NT",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "BUDISAVA (KROZ KAĆ) - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "headsign": "BUDISAVA (KROZ KAĆ) - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "variants": 1,
+          "tripCount": 4,
+          "stops": 20,
+          "lengthKm": 20.75,
+          "stats": {
+            "observations": 1041,
+            "matched": 1041,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.6296893699953814,
+            "roundaboutSegs": 9,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "42NK",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "KISAČ - ZONA SEVER (KOTEKS /NEOPLANTA) - ZONA JUG (ALBUS)",
+          "headsign": "KISAČ - ZONA SEVER (KOTEKS /NEOPLANTA) - ZONA JUG (ALBUS)",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 28,
+          "lengthKm": 23.94,
+          "stats": {
+            "observations": 1197,
+            "matched": 1197,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8478042644271175,
+            "roundaboutSegs": 26,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "55NK",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "FUTOG (BRAĆE BOŠNJAK) - ZONA JUG (ALBUS) - ZONA SEVER ( VISKOFAN/ NEOPLANTA)",
+          "headsign": "FUTOG (BRAĆE BOŠNJAK) - ZONA JUG (ALBUS) - ZONA SEVER ( VISKOFAN/ NEOPLANTA)",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 43,
+          "lengthKm": 22.41,
+          "stats": {
+            "observations": 1117,
+            "matched": 1117,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.1894420807058723,
+            "roundaboutSegs": 35,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
     }
   ]
 }
