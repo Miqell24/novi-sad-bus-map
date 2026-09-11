@@ -806,7 +806,7 @@
         },
         {
           "dir": "INDUSTRIJSKA ZONA JUG (APTIV) - ŽELEZNIČKA STANICA",
-          "headsign": "INDUSTRIJSKA ZONA JUG (APTIV) - ŽELEZNIČKA  STANICA",
+          "headsign": "INDUSTRIJSKA ZONA JUG (APTIV) - ŽELEZNIČKA STANICA",
           "variants": 1,
           "tripCount": 4,
           "stops": 4,
@@ -3361,7 +3361,7 @@
       "dirs": [
         {
           "dir": "SREMSKI KARLOVCI (VINOGRADARSKA / KROZ CENTAR SREMSKIH KARLOVACA) - NOVI SAD (AUTOBUSKA STANICA)",
-          "headsign": "SREMSKI KARLOVCI (VINOGRADARSKA / KROZ CENTAR SREMSKIH KARLOVACA)  - NOVI SAD (AUTOBUSKA STANICA)",
+          "headsign": "SREMSKI KARLOVCI (VINOGRADARSKA / KROZ CENTAR SREMSKIH KARLOVACA) - NOVI SAD (AUTOBUSKA STANICA)",
           "variants": 1,
           "tripCount": 1,
           "stops": 19,
@@ -3872,7 +3872,7 @@
         },
         {
           "dir": "SREMSKA KAMENICA (BOCKE /kroz Čardak i Trandžament) - NOVI SAD (ŽELEZNIČKA STANICA)",
-          "headsign": "SREMSKA KAMENICA (BOCKE /kroz Čardak  i Trandžament) - NOVI SAD (ŽELEZNIČKA STANICA)",
+          "headsign": "SREMSKA KAMENICA (BOCKE /kroz Čardak i Trandžament) - NOVI SAD (ŽELEZNIČKA STANICA)",
           "variants": 1,
           "tripCount": 1,
           "stops": 35,
